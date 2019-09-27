@@ -1,0 +1,37 @@
+exclude: ['README.md']
+timezone: US/Pacific
+# talks:
+#   -
+#     title: Speeding up Hyper-parameter Optimization by Extrapolation of Learning Curves
+#     detail: The Chinese University of Hong Kong
+#     url: "https://drive.google.com/file/d/1l9iB0CkQNtJetBLgPKBP7kjPi5pEW2Wk/view?usp=sharing"
+#     # img: paper1
+
+papers:
+  - layout: paper
+    year: 2018
+    paper-type: inproceedings
+    selected: yes
+    img: paper1
+    title: Mining Mobile Users’ Interests through Cellular Network Browsing Profiles</a>
+    authors: Fan Yan, Yunpeng Ding, and Wenzhong Li
+    booktitle: WASA 2018
+    booktitle-url: http://wasa-conference.org/WASA2018/index.html
+    venue: conference
+    note: Accepted.s
+    # abstract: >
+    #   Mining mobile users’ interest is very important for numerous of commercial 
+    #   applications such as product recommendation, personal- ized advertisement, 
+    #   precision marketing, etc. 
+    #   In this paper, we proposed a novel clustering approach for semantic mining 
+    #   from cellular network browsing profiles based on the topic model. We treat 
+    #   each URL as a word and the user’s browsing history as a document, and adopt 
+    #   the Latent Dirichlet Allocation (LDA) model to represent the web browsing 
+    #   interest of mobile users. We further used K-means to cluster the users into 
+    #   several groups according to their topic similarities, and apply a feature 
+    #   ranking approach to explain the sematic meaning of the clus- tering results. 
+    #   The performance of the proposed approach is verified on a dataset from a telecom 
+    #   operator, which explains users’ interests well in the clusters.
+      
+    
+
