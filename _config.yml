@@ -16,9 +16,9 @@ papers:
     title: Mining Mobile Users’ Interests through Cellular Network Browsing Profiles</a>
     authors: Fan Yan, Yunpeng Ding, and Wenzhong Li
     booktitle: WASA 2018
-    booktitle-url: http://wasa-conference.org/WASA2018/index.html
+    booktitle-url: https://link.springer.com/chapter/10.1007/978-3-319-94268-1_71
     venue: conference
-    note: Accepted.s
+    note: Accepted
     # abstract: >
     #   Mining mobile users’ interest is very important for numerous of commercial 
     #   applications such as product recommendation, personal- ized advertisement, 
@@ -32,6 +32,17 @@ papers:
     #   ranking approach to explain the sematic meaning of the clus- tering results. 
     #   The performance of the proposed approach is verified on a dataset from a telecom 
     #   operator, which explains users’ interests well in the clusters.
+  - layout: paper
+    year: 2018
+    paper-type: inproceedings
+    selected: yes
+    img: paper2
+    title: Geno: A Developer Tool for Authoring Multimodal Interaction on Existing Web Applications</a>
+    authors: Ritam Sarmah, Yunpeng Ding, Di Wang, Cheuk Yin Phipson Lee, Toby Jia-Jun Li, Xiang ‘Anthony’ Chen
+    booktitle: ACM UIST 2020
+    booktitle-url: https://uist.acm.org/uist2020/
+    venue: conference
+    note: In Proceedings
       
     
 
